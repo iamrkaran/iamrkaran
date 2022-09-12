@@ -33,3 +33,6 @@
 ## :bar_chart: My Github 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamclutchx&show_icons=true&locale=en&layout=compact" alt="iamclutchx" /></p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamClutchX)](https://github.com/iamClutchX/github-readme-stats)
