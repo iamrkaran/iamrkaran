@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm ClutchX</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React.js, MERN stack**
-
-- 📫 How to reach me **iamr.karan@gmail.com**
+<h1 align="center">Hi 👋, I'm Ram Karan</h1> 
+<h2 align="center">A passionate Full Stack Web developer from India</h2>
 
 <a align="center" href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Aspiring+MERN+Stack+Developer;%20Enthusiastic%20and%20Motivated;I%20Always%20enjoy%20learning%20new%20things&center=true&width=800&height=60"></a>
 <br/>
+
+
+<a href="https://www.linkedin.com/in/iamrkaran/">
+  <img align="left" alt="Ajay's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
