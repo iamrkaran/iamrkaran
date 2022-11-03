@@ -12,6 +12,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://app.daily.dev/iamclutchx"><img src="https://api.daily.dev/devcards/5409ee5b2c584f9baff8bbd59d1002d2.png?r=5dh" width="400" alt="Ram Karan's Dev Card"/></a>
 <p align="left">
 <a href="https://twitter.com/its_xkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_xkaran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamrkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamrkaran" height="30" width="40" /></a>
