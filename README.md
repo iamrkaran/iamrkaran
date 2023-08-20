@@ -32,10 +32,10 @@
 
 ## :bar_chart: My Github 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamclutchx&show_icons=true&locale=en&layout=compact" alt="iamclutchx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrkaran&show_icons=true&locale=en&layout=compact" alt="iamrkaran" /></p>
 <a href="https://app.daily.dev/iamclutchx"><img src="https://api.daily.dev/devcards/5409ee5b2c584f9baff8bbd59d1002d2.png?r=5dh" width="400" alt="Ram Karan's Dev Card"/></a>
 
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=iamClutchX)](https://github.com/iamClutchX/github-readme-stats)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrkaran)](https://github.com/iamrkaran/github-readme-stats)
 
 [![@iamclutchx's Holopin board](https://holopin.io/api/user/board?user=iamclutchx)](https://holopin.io/@iamclutchx)
