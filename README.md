@@ -32,8 +32,8 @@
 
 ## :bar_chart: My Github 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrkaran&show_icons=true&locale=en&layout=compact" alt="iamrkaran" /></p>
-<a href="https://app.daily.dev/iamclutchx"><img src="https://api.daily.dev/devcards/5409ee5b2c584f9baff8bbd59d1002d2.png?r=5dh" width="400" alt="Ram Karan's Dev Card"/></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrkaran&show_icons=true&locale=en&layout=compact" width="100%" alt="iamrkaran" /></p>
+<a href="https://app.daily.dev/iamrkaran"><img src="https://api.daily.dev/devcards/v2/O3zhnLOtgz8mupfY7mlZO.png?type=wide&r=sga" width="100%" alt="Ram Karan's Dev Card"/></a>
 
 
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrkaran)](https://github.com/iamrkaran/github-readme-stats)
